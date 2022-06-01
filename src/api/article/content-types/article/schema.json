@@ -18,7 +18,7 @@
     "content": {
       "type": "richtext"
     },
-    "cover_img": {
+    "image": {
       "type": "media",
       "multiple": false,
       "required": false,
